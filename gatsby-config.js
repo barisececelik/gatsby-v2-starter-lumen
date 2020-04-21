@@ -1,34 +1,34 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://barisececelik.com'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Barış Eceçelik',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Digital campaigner for good.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Yazılar',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'Hakkımda',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'İletişim',
         path: '/contact/',
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Barış Eceçelik',
+      email: 'barisececelik@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
