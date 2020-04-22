@@ -45,6 +45,9 @@ module.exports = {
       },
     },
     {
+      `gatsby-plugin-netlify-cms`,
+    },
+    {
       resolve: 'gatsby-plugin-feed',
       options: {
         query: `
