@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: barisececelik/gatsby-v2-starter-lumen
 
 media_folder: static/img
 public_folder: /img
