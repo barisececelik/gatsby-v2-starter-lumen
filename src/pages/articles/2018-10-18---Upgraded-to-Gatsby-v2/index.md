@@ -1,12 +1,12 @@
 ---
-title: Upgraded to Gatsby v2
+title: Dijital kampanya araçları
 date: "2018-10-18T16:51:00.000Z"
 layout: post
 draft: false
-path: "/posts/upgraded-to-gatsby-v2/"
-category: "Gatsby"
+path: "/posts/dijital-kampanya-araclari/"
+category: "Dijital Kampanya"
 tags:
-  - "Gatsby"
+  - "Dijital kampanya araçları"
   - "Web Development"
 description: "This starter has been forked and upgraded to Gatsby v2"
 ---
