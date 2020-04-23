@@ -17,13 +17,13 @@ Korona virüsü sırasında da gördük ki, özel şirketler gibi büyük reklam
 
 Yeni başlayacak projenizin dijital ayağında en iyi sonuçları elde etmek için proje başlangıcından önce aşağıdaki adımları takip ederek bir dijital kampanya stratejisi oluşturabilirsiniz.
 
-![proje-fazlari.png](.proje-fazlari.png)
+![proje-fazlari.png](./proje-fazlari.png)
 
 ## Planlama
 
 ### Hedefleri belirlemek
 
-![goals-dijital-kampanya-1.jpeg](.goals-dijital-kampanya-1.jpeg)
+![goals-dijital-kampanya-1.jpeg](./goals-dijital-kampanya-1.jpeg)
 
 Dijital kampanya stratejisini oluştururken sormamız gereken en önemli soru: Hedefimiz ne?
 
@@ -33,7 +33,7 @@ Kolay gibi gözükse de hedefleri belirlemek etkili bir strateji hazırlamak iç
 
 ### Hedef kitleyi belirlemek
 
-![audience-dijital-kampanya-1.jpeg](.audience-dijital-kampanya-1.jpeg)
+![audience-dijital-kampanya-1.jpeg](./audience-dijital-kampanya-1.jpeg)
 
 Kampanyanın hedefini belirledik, sırada bu hedefleri gerçekleştirmek için hangi hedef kitleye ulaşmamız gerektiğine karar vermek var.
 
