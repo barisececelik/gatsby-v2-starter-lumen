@@ -9,9 +9,8 @@ tags:
   - "Dijital kampanya stratejisi"
   - "Sosyal medya"
 description: "Dijital kampanya stratejisi hazırlarken dikkat edilmesi gerekenler ve araçlar."
+og:image: "[proje-fazlari.png](./proje-fazlari.png)"
 ---
-
-## Dijital kampanya stratejisi hazırlamak 
 
 Korona virüsü sırasında da gördük ki, özel şirketler gibi büyük reklam bütçeleri olmayan sivil toplum kuruluşları için dijital iletişim hayati bir öneme sahip. 
 
@@ -20,16 +19,15 @@ Yeni başlayacak projenizin dijital ayağında en iyi sonuçları elde etmek iç
 ![proje-fazlari.png](./proje-fazlari.png)
 
 ## Planlama
-
 ### Hedefleri belirlemek
 
 ![goals-dijital-kampanya-1.jpeg](./goals-dijital-kampanya-1.jpeg)
 
-Dijital kampanya stratejisini oluştururken sormamız gereken en önemli soru: Hedefimiz ne?
+Dijital kampanya stratejisini oluştururken sormamız gereken en önemli soru: **Hedefimiz ne?**
 
 Kolay gibi gözükse de hedefleri belirlemek etkili bir strateji hazırlamak için çok önemli bir başlangıç. Hedeflerimizi belirlerken dikkat etmemiz gereken en önemli nokta belirlediğimiz hedeflerin ulaşılabilir ve ölçülebilir olması.
 
-100 bin kişi imza kampanyamıza katılacak, 50 bin kişi bağış yapacak, bin kişi belediye başkanına mektup gönderecek gibi net ve ölçülebilir hedefler belirlememiz gerekiyor.
+100 bin kişi imza kampanyamıza katılacak, 50 bin kişi bağış yapacak, bin kişi belediye başkanına mektup gönderecek gibi **net ve ölçülebilir hedefler** belirlememiz gerekiyor.
 
 ### Hedef kitleyi belirlemek
 
@@ -45,16 +43,17 @@ Hedef kitlelerinizi belirlerken de olabildiğince net ve spesifik olmak çok ön
 
 Hedef kitlemi nerede bulurum? 
 
+![channels.png](./channels.png)
+
 Facebook, Twitter, Instagram, Youtube, TikTok, Telegram, Pinterest, Ekşi Sözlük, t24.com… Bu kanalların hepsi olabilir. Hedef kitlenize göre öncelikli kanallarınızı belirlemeli ve içerik stratejinizi bu kanallara yoğunlaşarak oluşturmalısınız. 
 
 Öncelikli kanallarınızı belirlemek diğer kanallarda bir şey yapmayacağınız anlamına gelmez. Sadece hangi kanal için içerik üretirken daha fazla zaman harcamanızı ve o kanalın ruhuna uygun içerikler üretmeniz gerektiğini size söyler.
 
 İçerik ve reklam stratejimizi oluşturarak planlama kısmını sonlandırabilir, uygulamaya geçebiliriz.
 
-Ne kadar bütçeniz olduğu da önemli tabi ama onun kadar önemli bir şey daha var, bu bütçeyi nasıl kullandığınız. Reklamları oluştururken olabildiğince oluşturduğunuz kanalın ruhuna uygun reklamlar üretmeye çalışın. Görselleriniz ve metniniz net olsun, insanlardan ne istiyorsanız net bir şekilde ifade edin ve olabildiğince test edin.
+Ne kadar bütçeniz olduğu da önemli tabi ama onun kadar önemli bir şey daha var, **bu bütçeyi nasıl kullandığınız.** Reklamları oluştururken olabildiğince oluşturduğunuz kanalın ruhuna uygun reklamlar üretmeye çalışın. Görselleriniz ve metniniz net olsun, insanlardan ne istiyorsanız net bir şekilde ifade edin ve olabildiğince test edin.
 
 ## Uygulama
-
 ### Lansman ve ilk değerlendirme
 
 ![launch-rocket.jpg](./launch-rocket.jpg)
@@ -63,7 +62,7 @@ Lansmanı yaptık ve stratejimiz ışığında iletişime devam ediyoruz. Bu nok
 
 Web sitemizin performansı iyi mi? İçeriklerimiz istediğimiz geri dönüşü alıyor mu? 
 
-Belirlediğimiz sorunları ve iyileştirmeleri hızlıca yapmak kampanyanın bütün başarısını etkileyebilecek çok önemli bir adım.
+**Belirlediğimiz sorunları ve iyileştirmeleri hızlıca yapmak kampanyanın bütün başarısını etkileyebilecek çok önemli bir adım.**
 
 ### Ara değerlendirme, yeniden planlama
 
@@ -76,24 +75,23 @@ Dijital ekipte yer almasa bile kampanya ekibinin içerisinde olan herkesin katı
 Değerlendirme sonrası oluşturulacak rapor objektif ve uzun vadede ulaşılabilir olmalı. 
 
 ## Araçlar
-
 ### Web siteleri / imza kampanyaları
 
 Kampanya hedeflerini belirlerken olduğu gibi web sitesi veya imza sayfalarından da beklentilerimizi iyi belirlememiz önemli. 
 
 Siteye gelen insanların ne yapmalarını istiyorsanız tasarım ve geliştirmeyi ona odaklı yapmanız sitenin başarı oranını artıracaktır. 
 
-İmza sitesi hazırlarken dikkat edilmesi gerekenler:
+**İmza sitesi hazırlarken dikkat edilmesi gerekenler:**
 
 - Site oldukça sade olmalı, karışık metinlerden kaçınılmalı
 - İnsanların kolayca ne için imza verdiklerini anlamaları sağlanmalı
 - Siteye girer girmez hem mobil hem masaüstünde imza formu gözükmeli
 - Site metni içerisinde farklı sayfalara bağlantı verilmemeli
 - Mobil uyumlu değil mobil öncelikli olmalı
-- Geç açılan siteler büyük oranda kullanıcı kaybına yol açar. Site hızınızı takip edin.
-
 ![mobile-friendly-petition.png](./mobile-friendly-petition.png)
 
+- Geç açılan siteler büyük oranda kullanıcı kaybına yol açar. Site hızınızı takip edin.
+![page-speed.png](./page-speed.png)
 
 ### Sosyal medya gönderileri
 
@@ -105,8 +103,7 @@ Sosyal medya gönderilerinde de web sitesinde olduğu gibi yalın bir dil kullan
 - Takipçilerinize soru sormaktan çekinmeyin. Onlarla iletişime girin. Engagement anlamında olumlu geri dönüşü olacaktır.
 - Test edin. Dijitalde başarılı olmanın en büyük anahtarı test etmeyi bir kurum içi kültürü haline getirmekte. Yeni kanalları, yeni post şekillerini test etmekten çekinmeyin.
 
-![social-media-posts.png](./social-media-posts.png)
-
+![social-media-posts.png](./social-media-posts.png
 
 ### Dijital reklamlar
 
@@ -122,9 +119,8 @@ Son birkaç sene içerisinde popülerliğini yitirmiş olsa da mailingler geri d
 
 Kurumunuzla e-posta adresini paylaşmış insanlar yeni kampanyalar için de en ilgili kitle olacaktır. 
 
-Listenize e-posta göndermeden önce yapabileceğiniz ve performansı etkileyen birkaç basit taktik: 
+**Listenize e-posta göndermeden önce yapabileceğiniz ve performansı etkileyen birkaç basit taktik:**
 
 - En az 3 tane “subject line” seçip e-postayı bütün kitleye göndermeden önce hangisinin daha iyi çalıştığınız kitlenizin %10’u üzerinde test edin.
 - İlk cümleler çok önemli. İnsanların çoğu e-postaları birkaç cümle okuduktan sonra kapatıyorlar. O yüzden ilk birkaç cümlede mesajınız net olsun ve okuyandan talebinizi belirtin.
 - Metin biçimlendirmeyi etkili kullanın. İnsanlar e-postayı açtıkları zaman tarama yaparak okumaya daha yatkınlar. O yüzden sadece “bold” metinleri okuyan insanların bile e-postayı anlayabilecekleri şekilde tasarlayın.
-
