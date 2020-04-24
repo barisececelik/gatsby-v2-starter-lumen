@@ -126,4 +126,4 @@ Kurumunuzla e-posta adresini paylaşmış insanlar yeni kampanyalar için de en 
 - İlk cümleler çok önemli. İnsanların çoğu e-postaları birkaç cümle okuduktan sonra kapatıyorlar. O yüzden ilk birkaç cümlede mesajınız net olsun ve okuyandan talebinizi belirtin.
 - Metin biçimlendirmeyi etkili kullanın. İnsanlar e-postayı açtıkları zaman tarama yaparak okumaya daha yatkınlar. O yüzden sadece “bold” metinleri okuyan insanların bile e-postayı anlayabilecekleri şekilde tasarlayın.
 
-![emailing.png](./emailing.png)
+![emailng.png](./emailng.png)
