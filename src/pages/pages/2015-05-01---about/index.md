@@ -4,11 +4,11 @@ layout: page
 path: "/about"
 ---
 
-2011 yılından bu yana birçok sivil toplum kuruluşunda gönüllü ve profesyonel çalışmalar yapma şansını buldum. Aynı yıl Greenpeace Akdeniz'de çalışmaya başladım.
+2011 yılından bu yana birçok sivil toplum kuruluşunda gönüllü ve profesyonel çalışmalar yaptım. Aynı yıl Greenpeace Akdeniz'de tam zamanlı çalışmaya başladım.
 
-2013 yılına kadar birçok farklı departman ve pozisyonda çalıştıktan sonra dijital ekibe geçiş yaptım. 2013 yılından bu yana Greenpeace Akdeniz dijital iletişim ekibinin bir parçasıyım.
+Birçok farklı departman ve pozisyonda çalıştıktan sonra, 2013 yılında dijital ekibe katıldım. 2013 yılından bu yana Greenpeace Akdeniz dijital iletişim ekibinin bir parçasıyım.
 
 Bu zamana kadar yüzbinlerce insanı harekete geçiren birçok dijital strateji hazırladım. Onlarca projede yer aldım.
 
-2019 yılının sonunda Ekosfer Derneği'ni kurduk. Şu sıralar hem Ekosfer'de hem de Greenpeace'te çalışmalarım devam ediyor.
+2019 yılının sonunda Ekosfer Derneği'nin kuruluşunda yer aldım. 
 
