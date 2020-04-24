@@ -61,7 +61,7 @@ Ne kadar bütçeniz olduğu da önemli tabi ama onun kadar önemli bir şey daha
 
 Lansmanı yaptık ve stratejimiz ışığında iletişime devam ediyoruz. Bu noktada özellikle lansman sonrası ilk birkaç hafta çok önemli.
 
-Web sitemizin performansı iyi mi? İçeriklerimiz istediğimiz geri dönüşü alıyor mu? 
+*Web sitemizin performansı iyi mi? İçeriklerimiz istediğimiz geri dönüşü alıyor mu?*
 
 **Belirlediğimiz sorunları ve iyileştirmeleri hızlıca yapmak kampanyanın bütün başarısını etkileyebilecek çok önemli bir adım.**
 
