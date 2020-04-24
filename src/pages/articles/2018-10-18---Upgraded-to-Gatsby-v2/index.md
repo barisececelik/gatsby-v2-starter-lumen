@@ -9,7 +9,7 @@ tags:
   - "Dijital kampanya stratejisi"
   - "Sosyal medya"
 description: "Dijital kampanya stratejisi hazırlarken dikkat edilmesi gerekenler ve araçlar."
-og:image: "[proje-fazlari.png](./proje-fazlari.png)"
+og:image: "[audience-dijital-kampanya-1.jpeg](./audience-dijital-kampanya-1.jpeg)"
 ---
 
 Korona virüsü sırasında da gördük ki, özel şirketler gibi büyük reklam bütçeleri olmayan sivil toplum kuruluşları için dijital iletişim hayati bir öneme sahip. 
@@ -54,6 +54,7 @@ Facebook, Twitter, Instagram, Youtube, TikTok, Telegram, Pinterest, Ekşi Sözl�
 Ne kadar bütçeniz olduğu da önemli tabi ama onun kadar önemli bir şey daha var, **bu bütçeyi nasıl kullandığınız.** Reklamları oluştururken olabildiğince oluşturduğunuz kanalın ruhuna uygun reklamlar üretmeye çalışın. Görselleriniz ve metniniz net olsun, insanlardan ne istiyorsanız net bir şekilde ifade edin ve olabildiğince test edin.
 
 ## Uygulama
+
 ### Lansman ve ilk değerlendirme
 
 ![launch-rocket.jpg](./launch-rocket.jpg)
@@ -103,7 +104,7 @@ Sosyal medya gönderilerinde de web sitesinde olduğu gibi yalın bir dil kullan
 - Takipçilerinize soru sormaktan çekinmeyin. Onlarla iletişime girin. Engagement anlamında olumlu geri dönüşü olacaktır.
 - Test edin. Dijitalde başarılı olmanın en büyük anahtarı test etmeyi bir kurum içi kültürü haline getirmekte. Yeni kanalları, yeni post şekillerini test etmekten çekinmeyin.
 
-![social-media-posts.png](./social-media-posts.png
+![social-media-posts.png](./social-media-posts.png)
 
 ### Dijital reklamlar
 
@@ -124,3 +125,5 @@ Kurumunuzla e-posta adresini paylaşmış insanlar yeni kampanyalar için de en 
 - En az 3 tane “subject line” seçip e-postayı bütün kitleye göndermeden önce hangisinin daha iyi çalıştığınız kitlenizin %10’u üzerinde test edin.
 - İlk cümleler çok önemli. İnsanların çoğu e-postaları birkaç cümle okuduktan sonra kapatıyorlar. O yüzden ilk birkaç cümlede mesajınız net olsun ve okuyandan talebinizi belirtin.
 - Metin biçimlendirmeyi etkili kullanın. İnsanlar e-postayı açtıkları zaman tarama yaparak okumaya daha yatkınlar. O yüzden sadece “bold” metinleri okuyan insanların bile e-postayı anlayabilecekleri şekilde tasarlayın.
+
+![emailing.png](./emailing.png)
