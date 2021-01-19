@@ -1,9 +1,13 @@
 backend:
-  name: github
-  repo: barisececelik/gatsby-v2-starter-lumen
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
 
-media_folder: static/img
-public_folder: /img
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+
 
 collections:
   - name: "blog"
