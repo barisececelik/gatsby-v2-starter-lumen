@@ -10,9 +10,9 @@ media_folder: "images/uploads" # Media files will be stored in the repo under im
 
 
 collections:
-  - name: "blog"
+  - name: "articles"
     label: "Blog"
-    folder: "/src/pages/articles"
+    folder: "_src/pages/articles"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
